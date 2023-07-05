@@ -1,7 +1,9 @@
+import Main from "@/components/onBoarding/main";
+
 export default function Home() {
   return (
     <>
-      <h1>setting</h1>
+      <Main />
     </>
   );
 }
